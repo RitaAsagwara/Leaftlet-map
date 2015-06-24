@@ -1,0 +1,33 @@
+/*Wildfire*/
+
+html, body, h1, h2, h3, h4, h5, h6, p, border{
+	margin:0;
+	padding:0;
+}
+
+html {
+	background-color: #fcfcfc;
+}
+
+body {
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	background-color: #fcfcfc;
+}
+
+#map {
+	height: 600px; 
+	width: 1000px; 
+	border-width:2px; 
+	border-style:solid; 
+	margin: 10px; 
+	float: center; 
+	border-color: #e3e3e3;
+}
+
+#mainContainer {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #fcfcfc;
+}
+
+
